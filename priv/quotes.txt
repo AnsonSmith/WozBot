@@ -1,0 +1,58 @@
+Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.	Brian W. Kernighan
+Walking on water and developing software from a specification are easy if both are frozen.	Edward V Berard
+It always takes longer than you expect, even when you take into account Hofstadter's Law.	Douglas Hofstadter
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.	Rick Osborne
+You can have the project: Done On Time, Done On Budget, Done Properly, Pick two.	Unknown
+Some people, when confronted with a problem, think I know, I'll use regular expressions. Now they have two problems.	Jamie Zawinski
+In theory, there is no difference between theory and practice. But, in practice, there is.	Jan L. A. van de Snepscheut
+You can use an eraser on the drafting table or a sledgehammer on the construction site	Frank Lloyd Wright
+Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.	Rick Cook
+Measuring programming progress by lines of code is like measuring aircraft building progress by weight	Bill Gates
+There are 2 hard problems in computer science: cache invalidation, naming things, and off-by-1 errors.	Leon Bambrick
+Nine people can't make a baby in a month.	Fred Brooks
+We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.	Donald Knuth
+Debuggers don't remove bugs. They only show them in slow motion.	Unknown
+The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.	Tom Cargill
+If Java had true garbage collection, most programs would delete themselves upon execution.	Robert Sewell
+Computer Science is no more about computers than astronomy is about telescopes	Edsger Dijkstra
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.	Edsger Dijkstra
+There are only two kinds of languages: the ones people complain about and the ones nobody uses	Bjarne Stroustrup
+The best thing about a boolean is even if you are wrong, you are only off by a bit.	Unknown
+On two occasions I have been asked, Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out? In one case a member of the Upper, and in the other a member of the Lower House put this question. I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.	Charles Babbage
+I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone	Bjarne Stroustrup
+It's all talk until the code runs.	Ward Cunningham
+Commenting your code is like cleaning your bathroom - you never want to do it, but it really does create a more pleasant experience for you and your guests.	Ryan Campbell
+The fool wonders, the wise man asks.	Benjamin Disraeli
+Programming is like sex: one mistake and you have to support it for the rest of your life.	Michael Sinz
+It would seem that perfection is attained not when there is nothing left to add, but when there is nothing left to take away.	Antoine de Saint-Exupary,
+Java is to JavaScript as car is to carpet.	Chris Hellman
+There are 10 kinds of people in the world, those who understand binary and those who don't	Unknown
+Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.	Stan Kelly-Bootle
+A clever person solves a problem. A wise person avoids it.	Albert Einstein
+Being a good software engineer is 3% talent, 97% not being distracted by the internet.	Unknown
+A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.	Bill Bryson
+If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator, a cheap PC to work on and the dedication to go through with it.	John Carmack
+All problems in computer science can be solved by another level of indirection, Except for the problem of too many layers of indirection.	David Wheeler
+What's the simplest thing that could possibly work?	Ward Cunningham
+There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.	Jeremy S. Anderson
+When all you have is a hammer, everything starts to look like a nail.	Abraham Maslow
+On the seventh day, God said, Ship it! We'll release patches later.	Josh Flachsbart
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.	Martin Golding
+To iterate is human, to recurse divine.	L. Peter Deutsch
+The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.	Seymour Cray
+Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.	Alan Kay
+Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.	Larry Wall
+First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.	George Carrette
+Measuring programming progress by lines of code is like measuring aircraft building progress by weight.	Bill Gates
+I don't care if it works on your machine! We are not shipping your machine!	Vidiu Platon
+Perl is The only language that looks the same before and after RSA encryption.	Keith Bostic
+In theory, theory and practice are the same. In practice, they’re not.	Yogi Berra
+When in doubt, use brute force.	Ken Thompson
+Deleted code is debugged code.	Jeff Sickel
+The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.	Brian W. Kernighan
+XML is like violence: if it doesn’t solve your problem, you aren’t using enough of it.	Unknown
+Simplicity is prerequisite for reliability.	Edsger W. Dijkstra
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand.	Martin Fowler
+Beware of bugs in the above code; I have only proved it correct, not tried it.	Donald Knuth
+Before software can be reusable it first has to be usable.	Ralph Johnson
+Computers are good at following instructions, but not at reading your mind.	Donald Knuth
