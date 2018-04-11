@@ -1,1 +1,7 @@
 /* This file is for your main application css. */
+.wozlogo img{
+     float: left;
+     height: 100px;
+     width: 100px;
+     display: block;
+  }

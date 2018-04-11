@@ -14,12 +14,12 @@
   <body>
     <div class="container">
       <header class="header">
-        <nav role="navigation">
-          <ul class="nav nav-pills pull-right">
-            <li><a href="http://www.phoenixframework.org/docs">Get Started</a></li>
-          </ul>
-        </nav>
-        <span class="logo"></span>
+      <div class="row align-items-center">
+        <div class="col-6 mx-auto col-md-6 order-md-2">
+          <h1>WozBot!</h1>
+        </div>
+      </div>
+
       </header>
 
       <p class="alert alert-info" role="alert"><%= get_flash(@conn, :info) %></p>
@@ -31,5 +31,6 @@
 
     </div> <!-- /container -->
     <script src="<%= static_path(@conn, "/js/app.js") %>"></script>
+    <script>require("js/quote").Quote.run()</script>
   </body>
 </html>
